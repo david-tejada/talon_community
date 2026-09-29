@@ -17,7 +17,7 @@ twin: "' '"
 quad: '" "'
 skis: ` `
 percentages: % %
-pad: space space
+# pad: space space
 
 escaped quad: '\\" \\"'
 escaped twin:  "\\' \\'"
