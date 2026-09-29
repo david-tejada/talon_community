@@ -187,7 +187,7 @@ symbol_key_words = {
     "star": "*",
     "hash": "#",
     "percent": "%",
-    "caret": "^",
+    # "caret": "^",
     "amper": "&",
     "pipe": "|",
     "dub quote": '"',
@@ -214,6 +214,7 @@ symbol_key_words_personal = {
     "dolly": "$",
     "pound sign": "£",
     "euro sign": "€",
+    "caret symbol": "^",
 }
 
 symbol_key_words.update(symbol_key_words_personal)
