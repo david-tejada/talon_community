@@ -1,5 +1,6 @@
 list: user.search_engine
 -
+
 amazon: https://www.amazon.com/s/?field-keywords=%s
 duckduckgo: https://duckduckgo.com/?q=%s&ia=web
 english: https://www.wordreference.com/es/translation.asp?tranword=%s

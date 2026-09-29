@@ -1,0 +1,55 @@
+Symbol,Mode (command/dictation/both),Spoken Forms (separated with commas)
+`,both,back tick
+`,command,grave
+",",both,comma,coma
+.,both,period,full stop
+.,command,dot,point
+;,both,semicolon
+;,command,semi
+:,both,colon
+?,both,question mark
+?,command,question
+!,both,exclamation mark,exclamation point
+!,command,bang
+*,both,asterisk
+*,command,star
+#,both,hash sign,number sign
+#,command,hash
+%,both,percent sign
+%,command,percent
+@,both,at symbol,at sign
+°,both,degree sign
+°,command,degree,degrees
+&,both,ampersand,and sign
+&,command,amper
+-,both,hyphen
+-,command,minus,dash
+–,both,en dash,nut dash
+—,both,em dash,mutton dash
+=,command,equals
++,command,plus
+~,command,tilde
+_,command,brow
+(,both,L paren,left paren
+(,command,round
+),both,R paren,right paren
+),command,rounder
+[,command,beam
+],command,beamer
+/,both,forward slash
+/,command,slash
+\,command,backslash
+{,command,wave
+},command,waiver
+<,command,pack
+>,command,packer
+^,command,caret symbol
+|,command,pipe
+',command,quote,single
+"""",command,dub quote,double quote,double
+$,both,dollar sign
+$,command,dollar,dolly
+£,both,pound sign
+£,command,pound
+€,both,euro sign
+€,command,euro
