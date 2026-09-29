@@ -1,4 +1,4 @@
-language: javascript
+language: javascript | typescript | javascriptreact | typescriptreact
 ---
 
 name: fancyComment
@@ -23,3 +23,29 @@ async function $1($2) {
     $0
 }
 ---
+
+name: timeoutStatement
+phrase: timeout
+insertionScope: statement
+
+$0.wrapperPhrase: timeout
+$0.wrapperScope: statement
+$1.insertionFormatter: PRIVATE_CAMEL_CASE
+-
+setTimeout(() => {
+    $0
+}, $1);
+---
+
+name: promiseStatement
+phrase: promise
+insertionScope: statement
+
+$0.wrapperPhrase: promise
+$0.wrapperScope: statement
+-
+new Promise((resolve, reject) => {
+    $0
+});
+---
+
