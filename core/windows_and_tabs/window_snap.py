@@ -275,6 +275,11 @@ _snap_positions = {
     "CENTER": RelativeScreenPos(1 / 8, 1 / 6, 7 / 8, 5 / 6),
     "FULL": RelativeScreenPos(0, 0, 1, 1),
     "FULLSCREEN": RelativeScreenPos(0, 0, 1, 1),
+    # Custom
+    "RIGHT_FOURTH": RelativeScreenPos(3 / 4, 0, 1, 1),
+    "LEFT_FOURTH": RelativeScreenPos(0, 0, 1 / 4, 1),
+    "RIGHT_FIFTH": RelativeScreenPos(4 / 5, 0, 1, 1),
+    "LEFT_FIFTH": RelativeScreenPos(0, 0, 1 / 5, 1),
 }
 _split_positions = {
     "split": {

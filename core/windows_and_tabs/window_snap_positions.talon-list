@@ -42,3 +42,9 @@ bottom center small: BOTTOM_CENTER_SMALL
 center: CENTER
 full: FULL
 fullscreen: FULLSCREEN
+
+# Custom
+right fourth: RIGHT_FOURTH
+left fourth: LEFT_FOURTH
+right fifth: RIGHT_FIFTH
+left fifth: LEFT_FIFTH
