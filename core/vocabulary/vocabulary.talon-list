@@ -12,7 +12,7 @@ changelog
 chat GPT: chatGPT
 Cisco
 Citrix
-Claude
+claude
 container
 coxes: coccyx
 cursorless
@@ -101,3 +101,9 @@ virtualizer
 rerender
 rerenders
 rerendering
+scorer
+scorers
+i d: id
+i ds: ids
+a p i: api
+a p is: apis
