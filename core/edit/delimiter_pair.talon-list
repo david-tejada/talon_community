@@ -10,7 +10,7 @@ list: user.delimiter_pair
 # pad: space space
 
 round: ( )
-box: [ ]
+# box: [ ]
 diamond: < >
 curly: { }
 twin: "' '"
